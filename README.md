@@ -38,7 +38,7 @@ This playground app is the winning submission for the Swift Student Challenge 20
   <a href="https://www.linkedin.com/in/dishant-nagpal-6a365019a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="dishantnagpal10@gmail.com">
+  <a href="mailto:dishantnagpal10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://twitter.com/DishantNagpal10">
